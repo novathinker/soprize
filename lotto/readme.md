@@ -7,12 +7,16 @@
 * 링크 : https://github.com/TheEconomist/big-mac-data/blob/master/source-data/big-mac-source-data.csv
 
 <h3>로또 판매액 통계</h3>
-* 아래의 연합뉴스 2003-2018년)
-https://www.yna.co.kr/view/AKR20190121128000002
-http://www.bokgwon.go.kr/history/02_02.jsp (2019, 2020)
+* 아래의 연합뉴스 기사 중 2003년부터 2018년까지의 통계자료 사용
+* 링크 : https://www.yna.co.kr/view/AKR20190121128000002
+* 2018년 부터는 기획재정부 복권위원회 통계자료 사용
+* 링크 : http://www.bokgwon.go.kr/history/02_02.jsp
 
-자장면 물가 자료
-https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J15112 (2003-2017 : 물가지수)
-https://www.price.go.kr/tprice/portal/servicepriceinfo/dineoutprice/dineOutPriceList.do# (2015년, 2018 - 2020년 자장면 가격)
-2015년 각 지역별 자장면 가격으로 물가 지수 반영하여 산출
+<h3>짜장면 물가 자료</h3>
+* 국가통계포털에서 2003년 부터 2017년 물가지수 중 짜장면 항목 추출
+* 링크 : https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1J15112 
+* 국가통계포털은 2015년을 기준으로 물가 지수로만 주기 때문에 한국 소비자원의 가격 정보르 토대로 역산출, 
+* 또한 2018년 부터 2020년의 12월 짜장면 가격을 지역별로 산출하여 국내 물가 중 가장 높은 지역을 기준으로 산출
+* 링크 : https://www.price.go.kr/tprice/portal/servicepriceinfo/dineoutprice/dineOutPriceList.do# 
 
+*가공된 데이터는 data 폴더에 올려놓았음
