@@ -1,4 +1,6 @@
-로또 당첨 통계
+<h3>로또 당첨 통계</h3> 
+- 960회에 달하는 전체 회차 통계를 획득하여 연 단위로 가공함
+
 https://dhlottery.co.kr/gameResult.do?method=byWin (전체 회차 통계)
 
 로또 판매액 통계 (2003-2018년)
